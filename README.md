@@ -15,7 +15,8 @@ This is a simple web application that allows users to build their own custom piz
 
 ## File Structure
 
-- `server.js`: The Express server file.
+- `server/
+  - server.js`: The Express server file.
 - `public/`: Directory containing static files for the web application.
   - `index.html`: HTML file for the main page.
   - `script.js`: JavaScript file for client-side logic.
