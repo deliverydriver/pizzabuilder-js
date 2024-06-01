@@ -1,0 +1,14 @@
+{
+  "name": "BYO-Pizza_export",
+  "version": "0.9",
+  "description": "Build your Own Application, generates a .XML for POS/Kitchen use & Receipt .txt for Customer SMS/Email",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Benjamin Pittman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,13 @@
+Order Number: 80
+Date: 2024-06-01
+Ingredients:
+- Onions
+- Sausage
+- Green Peppers
+- Black Olives
+- Tomatoes
+- Spinach
+- Jalapenos
+- Banana Peppers
+- Blue Cheese
+- Cheddar
